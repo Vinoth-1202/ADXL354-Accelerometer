@@ -1,1 +1,2 @@
 # **ADXL354-Accelerometer**
+I've provided a code snippet written in C for an ESP32 microcontroller to interface with an ADXL345 accelerometer using the I2C protocol. The code initializes the I2C communication, configures the ADXL345 accelerometer, sets up interrupt handlers for activity/inactivity detection and single/double detection, and continuously reads the interrupt source register to determine whether activity/inactivity and single/double has been detected.
