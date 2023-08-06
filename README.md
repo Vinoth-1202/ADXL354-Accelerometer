@@ -1,1 +1,1 @@
-# ADXL354-Accelerometer
+# **ADXL354-Accelerometer**
